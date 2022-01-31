@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KushalRaut" alt="KushalRaut" /></a> </p>
 
-- 🔭 I’m currently working on **[MERN E-Commerce Application]**(https://github.com/KushalRaut/E-Commerce-Web-App)
+- 🔭 I’m currently working on **[MERN E-Commerce Application]**(https://shopitbykushal.herokuapp.com/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 - 👨‍💻 All about me is at [My Website](https://kushal-raut-portfolio.netlify.app/)
