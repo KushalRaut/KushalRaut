@@ -1,7 +1,7 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Kushal Raut</h1>
-<h3 align="center">An aspiring full stack developer from Nepal and final year Computer Engineering StudenT</h3>
+<h3 align="center">I am a Computer Engineer from Nepal</h3>
 
 ### Wanna visit my website:question::point_right: [Click Here](https://kushal-raut-portfolio.netlify.app/):sparkles:
 
