@@ -10,16 +10,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KushalRaut" alt="KushalRaut" /></a> </p>
 
-- 🔭 I’m currently working on **[MERN E-Commerce Application]**(https://shopitbykushal.herokuapp.com/)
+- 🔭 I’m currently working on **[Shopify-NextJs-Project]**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
-- 👨‍💻 All about me is at [My Website](https://kushal-raut-portfolio.netlify.app/)
+- 👨‍💻 All about me is at [My Website](https://rautkushal.com.np/)
 
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development**
 
 - 📫 How to reach me: **kushalraut5@gmail.com**
 
-- 📄 Know about my experiences at [My Personal Portfolio Website](https://kushal-raut-portfolio.netlify.app/)
+- 📄 Know about my experiences at [My Personal Portfolio Website](https://rautkushal.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
