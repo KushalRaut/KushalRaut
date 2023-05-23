@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Developer at Kotuko(https://www.kotuko.it/en/)
 
-- 🌱 I’m currently learning **NodeJS, Microservices**
+- 🌱 I’m currently learning **Microservices with NodeJs**
 
 - 👨‍💻 All about me is at [My Website](https://rautkushal.com.np/)
 
