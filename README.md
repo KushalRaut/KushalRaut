@@ -1,13 +1,14 @@
-<h1>Hi, I'm Kushal Raut</h1>
-<h3>I am a Software Engineer from Nepal</h3>
+<h2>Hi there, I'm Kushal Raut</h2>
+<h3><span style="color:#2aa889;">Passionate Software Engineer from Nepal</span></h3>
 
-- 🔭 I’m currently working as a Software Developer at Kotuko(https://www.kotuko.it/en/)
 
-- 👨‍💻 All about me is at [My Website](https://rautkushal.com.np/)
+- 🔭 Currently working as a Software Developer at [Kotuko](https://www.kotuko.it/en/)
+
+- 👨‍💻 Check out [My Website](https://rautkushal.com.np/) to learn more about me
 
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development**
 
-- 📫 Reach out to me: **kushalraut5@gmail.com**
+- 📫 Reach out to me at **kushalraut5@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
